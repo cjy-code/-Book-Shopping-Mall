@@ -43,5 +43,5 @@
 ![이메일 인증](https://user-images.githubusercontent.com/69965049/111057412-b29fa800-84ca-11eb-90f3-b1e1e2c68a17.png)
 
 #### #2.[회원가입]
-![회원가입_2](https://user-images.githubusercontent.com/69965049/111057539-b54ecd00-84cb-11eb-8935-615769a62576.gif)
+
 ![주소 API](https://user-images.githubusercontent.com/69965049/111057619-3ad27d00-84cc-11eb-8421-f031ed554321.png)
