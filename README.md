@@ -35,3 +35,9 @@
 ![데이터구조](https://user-images.githubusercontent.com/69965049/111053477-87f02800-84a7-11eb-96dd-5fd00ce53690.png)
 ![북적북적_최종_210222](https://user-images.githubusercontent.com/69965049/111053537-f0d7a000-84a7-11eb-8167-8e36ed36120a.png)
 <br><br>
+
+
+### 7.시현
+ #### #1.[약관동의 및 이메일 인증]
+ ![회원가입](https://user-images.githubusercontent.com/69965049/111056831-90575b80-84c5-11eb-9fc0-e9f5629d92cd.gif)
+ ![이메일 인증](https://user-images.githubusercontent.com/69965049/111056874-1ecbdd00-84c6-11eb-9b79-24f1e84d71c1.png)
