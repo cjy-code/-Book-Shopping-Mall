@@ -47,3 +47,7 @@
 ![회원가입_2](https://user-images.githubusercontent.com/69965049/111057708-ebd91780-84cc-11eb-8227-291d4b737e4e.gif)
 #### #2-2 [주소 API]
 ![주소 API](https://user-images.githubusercontent.com/69965049/111057619-3ad27d00-84cc-11eb-8421-f031ed554321.png)
+
+
+#### #3.[아이디&비밀번호 찾기]
+![아디비번찾기](https://user-images.githubusercontent.com/69965049/111058125-a2d69280-84cf-11eb-9c71-297ca9a39d8c.gif)
