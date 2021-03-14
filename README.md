@@ -39,5 +39,5 @@
 
 ### 7.시현
  #### #1.[약관동의 및 이메일 인증]
- ![회원가입](https://user-images.githubusercontent.com/69965049/111056831-90575b80-84c5-11eb-9fc0-e9f5629d92cd.gif)
- ![이메일 인증](https://user-images.githubusercontent.com/69965049/111056874-1ecbdd00-84c6-11eb-9b79-24f1e84d71c1.png)
+![회원가입](https://user-images.githubusercontent.com/69965049/111057069-c4338080-84c7-11eb-80c8-d6763a463842.gif)
+![이메일 인증](https://user-images.githubusercontent.com/69965049/111056874-1ecbdd00-84c6-11eb-9b79-24f1e84d71c1.png)
