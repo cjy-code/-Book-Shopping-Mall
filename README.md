@@ -24,7 +24,13 @@
 <br><br>
 
 
-### 5.ERD
+### 5.담당업무
+-----------
+![담당업무](https://user-images.githubusercontent.com/69965049/111054784-b0315400-84b2-11eb-9ef0-9f5d123fae7d.png)
+<br><br>
+
+
+### 6.ERD
 -----------
 ![데이터구조](https://user-images.githubusercontent.com/69965049/111053477-87f02800-84a7-11eb-96dd-5fd00ce53690.png)
 ![북적북적_최종_210222](https://user-images.githubusercontent.com/69965049/111053537-f0d7a000-84a7-11eb-8167-8e36ed36120a.png)
