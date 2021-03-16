@@ -3,6 +3,8 @@
 ### 1.주제
 --------------------------------------------------------------------
 ![시작화면](https://user-images.githubusercontent.com/69965049/111052897-a1db3c00-84a2-11eb-9b7c-fd3ed9d1b57c.png)
+#### #설명:
+기존의 대표 온라시 서점 플랫폼을 밴치마킹하여 쇼핑몰의 기본 구조과 데이터의 구조관계를 분석하고 CSS와 자바스크립트, 부트스트랩, AJAX를 응용하여 JSP기반으로 구현하기 위한 팀프로젝트입니다.
 <br><br>
 
 
@@ -12,7 +14,7 @@
 <br><br>
 
 
-### 3.소개
+### 3.요구 분석 및 구현 업무
 -----------
 ![소개](https://user-images.githubusercontent.com/69965049/111098708-66666d80-8587-11eb-9df7-4d8c0a9e6272.png)
 <br><br>
@@ -32,7 +34,7 @@
 
 ### 6.ERD
 -----------
-![데이터구조](https://user-images.githubusercontent.com/69965049/111053477-87f02800-84a7-11eb-96dd-5fd00ce53690.png)
+![erd구조](https://user-images.githubusercontent.com/69965049/111252424-713b0400-8654-11eb-89ca-880c310dafb5.png)
 ![북적북적_최종_210222](https://user-images.githubusercontent.com/69965049/111053537-f0d7a000-84a7-11eb-8167-8e36ed36120a.png)
 <br><br>
 
@@ -40,6 +42,10 @@
 ### 7.시연
  #### #1.[약관동의 및 이메일 인증]
 ![회원가입](https://user-images.githubusercontent.com/69965049/111057069-c4338080-84c7-11eb-80c8-d6763a463842.gif)
+ #### #설명
+ 1. 약관보기 클릭 시 모달을 사용하여 약관에 대한 상세보기 기능을 사용했습니다.
+ 2. Gmail Smtp 설정을 통해 6자리의 랜덤 인증번호를 송신하고, Ajax를 응용한 전송 유무상태를 확인할 수 있습니다.
+ 
  #### #1-2 [인증 메일 수신]
 ![이메일 인증](https://user-images.githubusercontent.com/69965049/111057412-b29fa800-84ca-11eb-90f3-b1e1e2c68a17.png)
 
