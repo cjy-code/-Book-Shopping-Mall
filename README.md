@@ -16,7 +16,7 @@
 
 ### 3.요구 분석 및 구현 업무
 -----------
-![소개](https://user-images.githubusercontent.com/69965049/111098708-66666d80-8587-11eb-9df7-4d8c0a9e6272.png)
+![요구사항 및 ](https://user-images.githubusercontent.com/69965049/111408402-9bee9080-8718-11eb-9bfe-6267dc20e282.png)
 <br><br>
 
 
@@ -28,7 +28,7 @@
 
 ### 5.담당업무
 -----------
-![담당업무](https://user-images.githubusercontent.com/69965049/111054784-b0315400-84b2-11eb-9ef0-9f5d123fae7d.png)
+![담당업무](https://user-images.githubusercontent.com/69965049/111408459-ac067000-8718-11eb-8492-ea8b17bcfb14.png)
 <br><br>
 
 
@@ -138,4 +138,4 @@
 <br><br>
 -----------
 #### #9.[후기]
-![#3_후기](https://user-images.githubusercontent.com/69965049/111371497-dafef080-86dc-11eb-99ff-f9c319a50dc3.png)
+![후기](https://user-images.githubusercontent.com/69965049/111409387-34394500-871a-11eb-8c91-aa1e342c27a9.png)
